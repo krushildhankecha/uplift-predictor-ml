@@ -1,1 +1,1 @@
-# uplift-predictor-ml
+# Uplift Predictor ML Project
