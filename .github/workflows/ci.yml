@@ -11,7 +11,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [3.9, 3.10, 3.11]  # Adjust if you need
+        python-version: [ "3.9", "3.10", "3.11" ]  # Fixed with quotes
 
     steps:
       - name: Checkout repository
